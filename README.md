@@ -13,31 +13,32 @@ Anaconda distribution of Python 3.0.
 I want to show that we can take data regarding the articles users have interacted with on the IBM Watson Studio platform to make article recommendations.
 
 ## File Descriptions <a name="files"></a>
-README.md  
-Recommendations_with_IBM.html (An html version of the jupyter notebook)  
-Recommendations_with_IBM.ipynb (**This jupyter notebook is the main document**)  
-project_tests.py (Functions to test that the jupyter notebook is giving the expected answers)  
-top_10.p (pickled data to test notebook functions)  
-top_20.p (pickled data to test notebook functions)  
-top_5.p (pickled data to test notebook functions)  
-user_item_matrix.p (pickled data to test notebook functions)  
+
+|-**`Recommendations_with_IBM.ipynb`** (**This jupyter notebook is the key file**)  
+|-`Recommendations_with_IBM.html`  (An html version of the jupyter notebook)      
+|-`project_tests.py `              (Functions to test that the jupyter notebook is giving the expected answers)   
+(The following four files are pickled data used to test notebook functions)  
+|-`top_10.p`    
+|-`top_20.p`   
+|-`top_5.p`   
+|-`user_item_matrix.p`   
 
 -- data  
-|- aricles_community.csv  (data that is analysed)       
-|- user-item-interactions.csv  (data that is analysed)      
+|- `aricles_community.csv`  (data that is analysed)       
+|- `user-item-interactions.csv`  (data that is analysed)      
   
 
 ### Key file: `Recommendations_with_IBM.ipynb`
 The jupyter notebook is in four parts.  
 1) Exploratory Data Analysis  
-We load the csv data, clean it and explain its main features.  
+We load the csv data, clean it, and explain its main features.  
 2) Rank Based Recommendations  
 We find the most popular articles based on the most interactions.  
 3) User-User Based Collaborative Filtering  
 We recommend articles accord to the user_id by finding other the articles that similar users have interacted with.  
 6) Matrix Factorization  
-We use a machine learning approach--single value decomposition (SVD)--to predict new articles a user might interact with.  
+We use a machine learning approach—single value decomposition (SVD)—to predict new articles a user might interact with.  
 
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
-Thanks to Udacity for the idea for this project, for the skeleton of the jupyer notebook and to IBM for making available their data about articles on the IBM Watson Studio platform.
+Thanks to Udacity for the idea for this project, for the skeleton of the jupyter notebook and to IBM for making available their data about articles on the IBM Watson Studio platform.
