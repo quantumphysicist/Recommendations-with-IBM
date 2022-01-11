@@ -28,15 +28,15 @@ user_item_matrix.p (pickled data to test notebook functions)
   
 
 ### Key file: `Recommendations_with_IBM.ipynb`
-The jupyter notebook is in four parts.
-1) Exploratory Data Analysis
-We load the csv data, clean it and explain its main features.
-2) Rank Based Recommendations
-We find the most popular articles based on the most interactions.
-3) User-User Based Collaborative Filtering
-We recommend articles accord to the user_id by finding other the articles that similar users have interacted with.
-6) Matrix Factorization
-We use a machine learning approach--single value decomposition (SVD)--to predict new articles a user might interact with.
+The jupyter notebook is in four parts.  
+1) Exploratory Data Analysis  
+We load the csv data, clean it and explain its main features.  
+2) Rank Based Recommendations  
+We find the most popular articles based on the most interactions.  
+3) User-User Based Collaborative Filtering  
+We recommend articles accord to the user_id by finding other the articles that similar users have interacted with.  
+6) Matrix Factorization  
+We use a machine learning approach--single value decomposition (SVD)--to predict new articles a user might interact with.  
 
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
