@@ -13,14 +13,14 @@ Anaconda distribution of Python 3.0.
 I want to show that we can take data regarding the articles users have interacted with on the IBM Watson Studio platform to make article recommendations.
 
 ## File Descriptions <a name="files"></a>
-README.md
-Recommendations_with_IBM.html (An html version of the jupyter notebook)
-Recommendations_with_IBM.ipynb (**This jupyter notebook is the main document**)
-project_tests.py (Functions to test that the jupyter notebook is giving the expected answers)
-top_10.p (pickled data to test notebook functions)
-top_20.p (pickled data to test notebook functions)
-top_5.p (pickled data to test notebook functions)
-user_item_matrix.p (pickled data to test notebook functions)
+README.md  
+Recommendations_with_IBM.html (An html version of the jupyter notebook)  
+Recommendations_with_IBM.ipynb (**This jupyter notebook is the main document**)  
+project_tests.py (Functions to test that the jupyter notebook is giving the expected answers)  
+top_10.p (pickled data to test notebook functions)  
+top_20.p (pickled data to test notebook functions)  
+top_5.p (pickled data to test notebook functions)  
+user_item_matrix.p (pickled data to test notebook functions)  
 
 -- data  
 |- aricles_community.csv  (data that is analysed)       
