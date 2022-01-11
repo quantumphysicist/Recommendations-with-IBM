@@ -41,4 +41,4 @@ We use a machine learning approach—single value decomposition (SVD)—to predi
 
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
-Thanks to Udacity for the idea for this project, for the skeleton of the jupyter notebook and to IBM for making available their data about articles on the IBM Watson Studio platform.
+Thanks to Udacity for the idea for this project, for the skeleton of the jupyter notebook, and to IBM for making available their data about articles on the IBM Watson Studio platform.
