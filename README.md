@@ -10,7 +10,7 @@ Anaconda distribution of Python 3.0.
 
 ## Project Motivation<a name="motivation"></a>
 
-I want to show that we can take data regarding the articles users have interacted with on the IBM Watson Studio platform to make article recommendations.
+I want to show that we can take data regarding user-article interactions on the IBM Watson Studio platform to make article recommendations.
 
 ## File Descriptions <a name="files"></a>
 
@@ -41,4 +41,4 @@ We use a machine learning approach—single value decomposition (SVD)—to predi
 
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
-Thanks to Udacity for the idea for this project, for the skeleton of the jupyter notebook and to IBM for making available their data about articles on the IBM Watson Studio platform.
+Thanks to Udacity for the idea for this project, for the skeleton of the jupyter notebook, and to IBM for making available their data about articles on the IBM Watson Studio platform.
