@@ -10,7 +10,7 @@ Anaconda distribution of Python 3.0.
 
 ## Project Motivation<a name="motivation"></a>
 
-I want to show that we can take data regarding the articles users have interacted with on the IBM Watson Studio platform to make article recommendations.
+I want to show that we can take data regarding user-article interactions on the IBM Watson Studio platform to make article recommendations.
 
 ## File Descriptions <a name="files"></a>
 
