@@ -29,14 +29,18 @@ I want to show that we can take data regarding user-article interactions on the 
   
 
 ### Key file: `Recommendations_with_IBM.ipynb`
-The jupyter notebook is in four parts.  
-1) Exploratory Data Analysis  
-We load the csv data, clean it, and explain its main features.  
-2) Rank Based Recommendations  
+The jupyter notebook is in four parts. 
+ 
+I. Exploratory Data Analysis  
+We load the csv data, clean it, and explain its main features. 
+ 
+II. Rank Based Recommendations  
 We find the most popular articles based on the most interactions.  
-3) User-User Based Collaborative Filtering  
-We recommend articles accord to the user_id by finding other the articles that similar users have interacted with.  
-6) Matrix Factorization  
+
+III. User-User Based Collaborative Filtering  
+We recommend articles accord to the user_id by finding other the articles that similar users have interacted with. 
+ 
+IV. Matrix Factorization  
 We use a machine learning approach—single value decomposition (SVD)—to predict new articles a user might interact with.  
 
 
