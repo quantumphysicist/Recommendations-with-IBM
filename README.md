@@ -25,8 +25,8 @@ I want to show that we can take data regarding user-article interactions on the 
 |- user_item_matrix.p   
 
 — data  
-|- aricles_community.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analysed)       
-|- user-item-interactions.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analysed)      
+|- aricles_community.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analyzed)       
+|- user-item-interactions.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analyzed)      
   
 
 ### Key file: `Recommendations_with_IBM.ipynb`
@@ -39,7 +39,7 @@ II. Rank Based Recommendations
 We find the most popular articles based on the most interactions.  
 
 III. User-User Based Collaborative Filtering  
-We recommend articles accord to the user_id by finding other the articles that similar users have interacted with. 
+We recommend articles accord to the user_id by finding other articles that similar users have interacted with. 
  
 IV. Matrix Factorization  
 We use a machine learning approach—single value decomposition (SVD)—to predict new articles a user might interact with.  
