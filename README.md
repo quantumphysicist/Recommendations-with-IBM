@@ -14,9 +14,9 @@ I want to show that we can take data regarding user-article interactions on the 
 
 ## File Descriptions <a name="files"></a>
 
-|-**Recommendations_with_IBM.ipynb**&nbsp&nbsp&nbsp&nbsp&nbsp(**This jupyter notebook is the key file**)  
-|-Recommendations_with_IBM.html&nbsp&nbsp&nbsp&nbsp&nbsp(An html version of the jupyter notebook)      
-|-project_tests.py&nbsp&nbsp&nbsp&nbsp&nbsp(Functions to test that the jupyter notebook is giving the expected answers) 
+|-**Recommendations_with_IBM.ipynb**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**This jupyter notebook is the key file**)  
+|-Recommendations_with_IBM.html&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(An html version of the jupyter notebook)      
+|-project_tests.py&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Functions to test that the jupyter notebook is giving the expected answers) 
 
 (The following four files are pickled data used to test notebook functions)  
 |- top_10.p    
@@ -25,8 +25,8 @@ I want to show that we can take data regarding user-article interactions on the 
 |- user_item_matrix.p   
 
 — data  
-|- aricles_community.csv&nbsp&nbsp&nbsp&nbsp&nbsp(data that is analysed)       
-|- user-item-interactions.csv&nbsp&nbsp&nbsp&nbsp&nbsp(data that is analysed)      
+|- aricles_community.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analysed)       
+|- user-item-interactions.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analysed)      
   
 
 ### Key file: `Recommendations_with_IBM.ipynb`
