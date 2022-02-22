@@ -8,7 +8,7 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-Anaconda distribution of Python 3.0. 
+Anaconda distribution of Python 3.0. Please see requirements.txt for modules.
 
 ## Project Motivation<a name="motivation"></a>
 
