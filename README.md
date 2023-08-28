@@ -27,8 +27,8 @@ I want to show that we can use data regarding user-article interactions on the I
 |- user_item_matrix.p   
 
 — data  
-|- aricles_community.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analyzed)       
-|- user-item-interactions.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(data that is analyzed)      
+|- aricles_community.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (each row contains information about a single article)       
+|- user-item-interactions.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (each row indicates an interaction between a user and an article)      
   
 
 ### Key file: `Recommendations_with_IBM.ipynb`
